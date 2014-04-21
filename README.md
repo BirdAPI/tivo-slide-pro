@@ -8,6 +8,7 @@ This is a plugin for [EventGhost] which overrides the default behavior of the Ti
 How to Install
 -----
 __It is recommended to create a system restore point before installing, in case something goes wrong with the drivers provided by EventGhost__
+
 1. Download the zip and extract it to your computer
 2. Copy the folder `TivoSlidePro` into `C:\Program Files (x86)\EventGhost\plugins` for 64-bit windows or `C:\Program Files\EventGhost\plugins` for 32-bit windows.
 3. __If you have a 64-bit operating system, disbale driver signing enforcement.__ If not, continue to the next step.
